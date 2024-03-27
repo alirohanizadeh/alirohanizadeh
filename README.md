@@ -4,7 +4,7 @@ Hello there! My name is [ Ali Rohanizadeh](https://alirohanizadeh.github.io/), a
 -----
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alirohanizadeh&show_icons=true&rank_icon=percentile&count_private=true&theme=transparent&hide=issues,contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alirohanizadeh&show_icons=true&rank_icon=percentile&count_private=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirohanizadeh&layout=compact&langs_count=6" />
